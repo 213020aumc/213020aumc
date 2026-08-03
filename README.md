@@ -126,7 +126,7 @@ I am a **Full Stack Developer (Backend Focused)** with **1.5+ years of experienc
     <img src="https://github-readme-stats-fast.vercel.app/api?username=213020aumc&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Stats&v=1" alt="GitHub Stats" />
   </p>
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=213020aumc&theme=tokyonight&hide_border=true&cache_bypass=1" alt="GitHub Streak" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=213020aumc&layout=compact&theme=tokyonight&hide_border=true&hide=cython,c,c%2B%2B&v=1" alt="Top Languages" />
   </p>
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=213020aumc&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
